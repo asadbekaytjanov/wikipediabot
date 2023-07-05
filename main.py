@@ -2,7 +2,7 @@ import logging
 import wikipedia
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '6230204924:AAHKqgSIVS0-O5X8FhicXz9c_QL4ZJrzptU'
+API_TOKEN = 'YOUR API TOKEN HERE'
 
 
 logging.basicConfig(level=logging.INFO)
