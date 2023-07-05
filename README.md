@@ -1,3 +1,1 @@
-"# wiki" 
-"# wikipediabot" 
-"# wikipediabot" 
+WIKIPEDIA BOT
